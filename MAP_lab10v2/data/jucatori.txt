@@ -1,0 +1,420 @@
+1;Debi  ;Scoala Gimnaziala “Horea” ;1
+2;BarbatOtilia;Scoala Gimnaziala “Horea” ;1
+3;DragulescuSonia;Scoala Gimnaziala “Horea” ;1
+4;Debi  ;Scoala Gimnaziala “Horea” ;1
+5;Deb  ;Scoala Gimnaziala “Horea” ;1
+6;Deb  ;Scoala Gimnaziala “Horea” ;1
+7;Dixie  ;Scoala Gimnaziala “Horea” ;1
+8;Arturo ;Scoala Gimnaziala “Horea” ;1
+9;Tatiana  ;Scoala Gimnaziala “Horea” ;1
+10;Raymonde  ;Scoala Gimnaziala “Horea” ;1
+11;Janis  ;Scoala Gimnaziala “Horea” ;1
+12;MotocBeatrice;Scoala Gimnaziala “Horea” ;1
+13;Dixie  ;Scoala Gimnaziala “Horea” ;1
+14;Tomika;Scoala Gimnaziala “Horea” ;1
+15;Maricruz  ;Scoala Gimnaziala “Horea” ;1
+16;Nolan;Scoala Gimnaziala "Octavian Goga" ;2
+17;DragulescuMara;Scoala Gimnaziala "Octavian Goga" ;2
+18;Lorene  ;Scoala Gimnaziala "Octavian Goga" ;2
+19;Lanell  ;Scoala Gimnaziala "Octavian Goga" ;2
+20;Sebastian  ;Scoala Gimnaziala "Octavian Goga" ;2
+21;BaboiuRazvan;Scoala Gimnaziala "Octavian Goga" ;2
+22;DrelciucAndrei;Scoala Gimnaziala "Octavian Goga" ;2
+23;Shon  ;Scoala Gimnaziala "Octavian Goga" ;2
+24;Anthony  ;Scoala Gimnaziala "Octavian Goga" ;2
+25;Lanell  ;Scoala Gimnaziala "Octavian Goga" ;2
+26;Tomika;Scoala Gimnaziala "Octavian Goga" ;2
+27;Taunya  ;Scoala Gimnaziala "Octavian Goga" ;2
+28;BaboiuRazvan;Scoala Gimnaziala "Octavian Goga" ;2
+29;Arturo ;Scoala Gimnaziala "Octavian Goga" ;2
+30;Kenton  ;Scoala Gimnaziala "Octavian Goga" ;2
+31;Opal  ;Liceul Teoretic "Lucian Blaga" ;3
+32;Shon  ;Liceul Teoretic "Lucian Blaga" ;3
+33;Claud  ;Liceul Teoretic "Lucian Blaga" ;3
+34;Becky;Liceul Teoretic "Lucian Blaga" ;3
+35;Gilma  ;Liceul Teoretic "Lucian Blaga" ;3
+36;Danielle  ;Liceul Teoretic "Lucian Blaga" ;3
+37;Nelda  ;Liceul Teoretic "Lucian Blaga" ;3
+38;GaborVlad;Liceul Teoretic "Lucian Blaga" ;3
+39;Becky;Liceul Teoretic "Lucian Blaga" ;3
+40;NemesDiana;Liceul Teoretic "Lucian Blaga" ;3
+41;Dominga  ;Liceul Teoretic "Lucian Blaga" ;3
+42;Opal  ;Liceul Teoretic "Lucian Blaga" ;3
+43;MihaliTeodora;Liceul Teoretic "Lucian Blaga" ;3
+44;Isaias  ;Liceul Teoretic "Lucian Blaga" ;3
+45;Imogene  ;Liceul Teoretic "Lucian Blaga" ;3
+46;Charisse  ;Scoala Gimnaziala "Ioan Bob" ;4
+47;Kenton  ;Scoala Gimnaziala "Ioan Bob" ;4
+48;Tatiana  ;Scoala Gimnaziala "Ioan Bob" ;4
+49;Ayako  ;Scoala Gimnaziala "Ioan Bob" ;4
+50;Imogene  ;Scoala Gimnaziala "Ioan Bob" ;4
+51;SuciuSorina;Scoala Gimnaziala "Ioan Bob" ;4
+52;Maricruz  ;Scoala Gimnaziala "Ioan Bob" ;4
+53;Opal  ;Scoala Gimnaziala "Ioan Bob" ;4
+54;Becky;Scoala Gimnaziala "Ioan Bob" ;4
+55;Gilma  ;Scoala Gimnaziala "Ioan Bob" ;4
+56;Carey  ;Scoala Gimnaziala "Ioan Bob" ;4
+57;Janis  ;Scoala Gimnaziala "Ioan Bob" ;4
+58;Imogene  ;Scoala Gimnaziala "Ioan Bob" ;4
+59;Anthony  ;Scoala Gimnaziala "Ioan Bob" ;4
+60;Jennette  ;Scoala Gimnaziala "Ioan Bob" ;4
+61;Nelda  ;Scoala Gimnaziala "Ion Creanga" ;5
+62;Shon  ;Scoala Gimnaziala "Ion Creanga" ;5
+63;Jon;Scoala Gimnaziala "Ion Creanga" ;5
+64;Rosalina;Scoala Gimnaziala "Ion Creanga" ;5
+65;Donetta  ;Scoala Gimnaziala "Ion Creanga" ;5
+66;Jennette  ;Scoala Gimnaziala "Ion Creanga" ;5
+67;Dixie  ;Scoala Gimnaziala "Ion Creanga" ;5
+68;Raymonde  ;Scoala Gimnaziala "Ion Creanga" ;5
+69;Taunya  ;Scoala Gimnaziala "Ion Creanga" ;5
+70;Lorene  ;Scoala Gimnaziala "Ion Creanga" ;5
+71;Rickey  ;Scoala Gimnaziala "Ion Creanga" ;5
+72;Jon;Scoala Gimnaziala "Ion Creanga" ;5
+73;Tatiana  ;Scoala Gimnaziala "Ion Creanga" ;5
+74;Jolynn  ;Scoala Gimnaziala "Ion Creanga" ;5
+75;Katherine  ;Scoala Gimnaziala "Ion Creanga" ;5
+76;Twyla  ;Colegiul National Pedagogic "Gheorghe Lazar" ;6
+77;MihaliTeodora;Colegiul National Pedagogic "Gheorghe Lazar" ;6
+78;Opal  ;Colegiul National Pedagogic "Gheorghe Lazar" ;6
+79;Almeda  ;Colegiul National Pedagogic "Gheorghe Lazar" ;6
+80;Maranda  ;Colegiul National Pedagogic "Gheorghe Lazar" ;6
+81;Raymonde  ;Colegiul National Pedagogic "Gheorghe Lazar" ;6
+82;DrelciucAndrei;Colegiul National Pedagogic "Gheorghe Lazar" ;6
+83;Lanell  ;Colegiul National Pedagogic "Gheorghe Lazar" ;6
+84;DrelciucAndrei;Colegiul National Pedagogic "Gheorghe Lazar" ;6
+85;Ping  ;Colegiul National Pedagogic "Gheorghe Lazar" ;6
+86;Rosalina;Colegiul National Pedagogic "Gheorghe Lazar" ;6
+87;Isaias  ;Colegiul National Pedagogic "Gheorghe Lazar" ;6
+88;Eunice  ;Colegiul National Pedagogic "Gheorghe Lazar" ;6
+89;Viola;Colegiul National Pedagogic "Gheorghe Lazar" ;6
+90;Dixie  ;Colegiul National Pedagogic "Gheorghe Lazar" ;6
+91;DrelciucAndrei;Scoala Gimnaziala Internationala SPECTRUM ;7
+92;Isaias  ;Scoala Gimnaziala Internationala SPECTRUM ;7
+93;Debi  ;Scoala Gimnaziala Internationala SPECTRUM ;7
+94;Daria  ;Scoala Gimnaziala Internationala SPECTRUM ;7
+95;Shon  ;Scoala Gimnaziala Internationala SPECTRUM ;7
+96;MihaliTeodora;Scoala Gimnaziala Internationala SPECTRUM ;7
+97;Opal  ;Scoala Gimnaziala Internationala SPECTRUM ;7
+98;BatiuAndrada;Scoala Gimnaziala Internationala SPECTRUM ;7
+99;MihaliTeodora;Scoala Gimnaziala Internationala SPECTRUM ;7
+100;Claud  ;Scoala Gimnaziala Internationala SPECTRUM ;7
+101;Becky;Scoala Gimnaziala Internationala SPECTRUM ;7
+102;GaborVlad;Scoala Gimnaziala Internationala SPECTRUM ;7
+103;Danielle  ;Scoala Gimnaziala Internationala SPECTRUM ;7
+104;BosteanCristina;Scoala Gimnaziala Internationala SPECTRUM ;7
+105;Ping  ;Scoala Gimnaziala Internationala SPECTRUM ;7
+106;BosteanCristina;Colegiul National „Emil Racovita” ;8
+107;DrelciucAndrei;Colegiul National „Emil Racovita” ;8
+108;DragulescuSonia;Colegiul National „Emil Racovita” ;8
+109;Ayako  ;Colegiul National „Emil Racovita” ;8
+110;Nelda  ;Colegiul National „Emil Racovita” ;8
+111;Maricruz  ;Colegiul National „Emil Racovita” ;8
+112;GaborVlad;Colegiul National „Emil Racovita” ;8
+113;Rickey  ;Colegiul National „Emil Racovita” ;8
+114;Debi  ;Colegiul National „Emil Racovita” ;8
+115;JuncuTeodor;Colegiul National „Emil Racovita” ;8
+116;Kenton  ;Colegiul National „Emil Racovita” ;8
+117;Nolan;Colegiul National „Emil Racovita” ;8
+118;Danielle  ;Colegiul National „Emil Racovita” ;8
+119;Lanell  ;Colegiul National „Emil Racovita” ;8
+120;Isaias  ;Colegiul National „Emil Racovita” ;8
+121;Ping  ;Colegiul National "George Cosbuc" ;9
+122;Jolynn  ;Colegiul National "George Cosbuc" ;9
+123;Kayleen  ;Colegiul National "George Cosbuc" ;9
+124;JuncuTeodor;Colegiul National "George Cosbuc" ;9
+125;Maricruz  ;Colegiul National "George Cosbuc" ;9
+126;Claud  ;Colegiul National "George Cosbuc" ;9
+127;DragulescuMara;Colegiul National "George Cosbuc" ;9
+128;Maricruz  ;Colegiul National "George Cosbuc" ;9
+129;Rosalina;Colegiul National "George Cosbuc" ;9
+130;Shon  ;Colegiul National "George Cosbuc" ;9
+131;NemesDiana;Colegiul National "George Cosbuc" ;9
+132;Rosalina;Colegiul National "George Cosbuc" ;9
+133;Almeda  ;Colegiul National "George Cosbuc" ;9
+134;BosteanCristina;Colegiul National "George Cosbuc" ;9
+135;Raymonde  ;Colegiul National "George Cosbuc" ;9
+136;BarbatOtilia;Scoala Gimnaziala "Ion Agarbiceanu" ;10
+137;DragulescuSonia;Scoala Gimnaziala "Ion Agarbiceanu" ;10
+138;Anthony  ;Scoala Gimnaziala "Ion Agarbiceanu" ;10
+139;Maranda  ;Scoala Gimnaziala "Ion Agarbiceanu" ;10
+140;Claud  ;Scoala Gimnaziala "Ion Agarbiceanu" ;10
+141;Charisse  ;Scoala Gimnaziala "Ion Agarbiceanu" ;10
+142;Maranda  ;Scoala Gimnaziala "Ion Agarbiceanu" ;10
+143;Katherine  ;Scoala Gimnaziala "Ion Agarbiceanu" ;10
+144;Lucy  ;Scoala Gimnaziala "Ion Agarbiceanu" ;10
+145;Arturo ;Scoala Gimnaziala "Ion Agarbiceanu" ;10
+146;Viola;Scoala Gimnaziala "Ion Agarbiceanu" ;10
+147;Tatiana  ;Scoala Gimnaziala "Ion Agarbiceanu" ;10
+148;JuncuTeodor;Scoala Gimnaziala "Ion Agarbiceanu" ;10
+149;Imogene  ;Scoala Gimnaziala "Ion Agarbiceanu" ;10
+150;Charisse  ;Scoala Gimnaziala "Ion Agarbiceanu" ;10
+151;MotocBeatrice;Liceul Teoretic "Avram Iancu" ;11
+152;Carey  ;Liceul Teoretic "Avram Iancu" ;11
+153;Carey  ;Liceul Teoretic "Avram Iancu" ;11
+154;DragulescuSonia;Liceul Teoretic "Avram Iancu" ;11
+155;Rosalina;Liceul Teoretic "Avram Iancu" ;11
+156;Sebastian  ;Liceul Teoretic "Avram Iancu" ;11
+157;Donetta  ;Liceul Teoretic "Avram Iancu" ;11
+158;Danielle  ;Liceul Teoretic "Avram Iancu" ;11
+159;Lanell  ;Liceul Teoretic "Avram Iancu" ;11
+160;BosteanCristina;Liceul Teoretic "Avram Iancu" ;11
+161;Imogene  ;Liceul Teoretic "Avram Iancu" ;11
+162;Carmina  ;Liceul Teoretic "Avram Iancu" ;11
+163;Deb  ;Liceul Teoretic "Avram Iancu" ;11
+164;Anthony  ;Liceul Teoretic "Avram Iancu" ;11
+165;Maranda  ;Liceul Teoretic "Avram Iancu" ;11
+166;Racquel  ;Scoala Gimnaziala "Constantin Brancusi" ;12
+167;Nelda  ;Scoala Gimnaziala "Constantin Brancusi" ;12
+168;Deb  ;Scoala Gimnaziala "Constantin Brancusi" ;12
+169;Dominga  ;Scoala Gimnaziala "Constantin Brancusi" ;12
+170;Imogene  ;Scoala Gimnaziala "Constantin Brancusi" ;12
+171;Jolynn  ;Scoala Gimnaziala "Constantin Brancusi" ;12
+172;Dixie  ;Scoala Gimnaziala "Constantin Brancusi" ;12
+173;Deb  ;Scoala Gimnaziala "Constantin Brancusi" ;12
+174;Tomika;Scoala Gimnaziala "Constantin Brancusi" ;12
+175;Jon;Scoala Gimnaziala "Constantin Brancusi" ;12
+176;Rosalina;Scoala Gimnaziala "Constantin Brancusi" ;12
+177;Danielle  ;Scoala Gimnaziala "Constantin Brancusi" ;12
+178;DragomirManu;Scoala Gimnaziala "Constantin Brancusi" ;12
+179;BosteanCristina;Scoala Gimnaziala "Constantin Brancusi" ;12
+180;Madeline  ;Scoala Gimnaziala "Constantin Brancusi" ;12
+181;Jon;Liceul Teoretic "Onisifor Ghibu" ;13
+182;DragulescuMara;Liceul Teoretic "Onisifor Ghibu" ;13
+183;Ayako  ;Liceul Teoretic "Onisifor Ghibu" ;13
+184;DrelciucAndrei;Liceul Teoretic "Onisifor Ghibu" ;13
+185;Rickey  ;Liceul Teoretic "Onisifor Ghibu" ;13
+186;Jennette  ;Liceul Teoretic "Onisifor Ghibu" ;13
+187;Eunice  ;Liceul Teoretic "Onisifor Ghibu" ;13
+188;Gilma  ;Liceul Teoretic "Onisifor Ghibu" ;13
+189;MotocBeatrice;Liceul Teoretic "Onisifor Ghibu" ;13
+190;Katherine  ;Liceul Teoretic "Onisifor Ghibu" ;13
+191;Anthony  ;Liceul Teoretic "Onisifor Ghibu" ;13
+192;Raymonde  ;Liceul Teoretic "Onisifor Ghibu" ;13
+193;Arturo ;Liceul Teoretic "Onisifor Ghibu" ;13
+194;Ping  ;Liceul Teoretic "Onisifor Ghibu" ;13
+195;Twyla  ;Liceul Teoretic "Onisifor Ghibu" ;13
+196;Raymonde  ;Liceul Teoretic "Onisifor Ghibu" ;14
+197;Gilma  ;Liceul Teoretic "Onisifor Ghibu" ;14
+198;MotocBeatrice;Liceul Teoretic "Onisifor Ghibu" ;14
+199;Carey  ;Liceul Teoretic "Onisifor Ghibu" ;14
+200;Deb  ;Liceul Teoretic "Onisifor Ghibu" ;14
+201;Eunice  ;Liceul Teoretic "Onisifor Ghibu" ;14
+202;BaboiuRazvan;Liceul Teoretic "Onisifor Ghibu" ;14
+203;Kenton  ;Liceul Teoretic "Onisifor Ghibu" ;14
+204;Jon;Liceul Teoretic "Onisifor Ghibu" ;14
+205;Tatiana  ;Liceul Teoretic "Onisifor Ghibu" ;14
+206;Carmina  ;Liceul Teoretic "Onisifor Ghibu" ;14
+207;Shon  ;Liceul Teoretic "Onisifor Ghibu" ;14
+208;Donetta  ;Liceul Teoretic "Onisifor Ghibu" ;14
+209;DragulescuSonia;Liceul Teoretic "Onisifor Ghibu" ;14
+210;JuncuTeodor;Liceul Teoretic "Onisifor Ghibu" ;14
+211;SuciuSorina;Liceul cu Program Sportiv Cluj-Napoca ;15
+212;Maricruz  ;Liceul cu Program Sportiv Cluj-Napoca ;15
+213;Charisse  ;Liceul cu Program Sportiv Cluj-Napoca ;15
+214;Carey  ;Liceul cu Program Sportiv Cluj-Napoca ;15
+215;BosteanCristina;Liceul cu Program Sportiv Cluj-Napoca ;15
+216;Racquel  ;Liceul cu Program Sportiv Cluj-Napoca ;15
+217;Carey  ;Liceul cu Program Sportiv Cluj-Napoca ;15
+218;DragulescuMara;Liceul cu Program Sportiv Cluj-Napoca ;15
+219;MihaliTeodora;Liceul cu Program Sportiv Cluj-Napoca ;15
+220;BaboiuRazvan;Liceul cu Program Sportiv Cluj-Napoca ;15
+221;Kayleen  ;Liceul cu Program Sportiv Cluj-Napoca ;15
+222;Jennette  ;Liceul cu Program Sportiv Cluj-Napoca ;15
+223;GaborVlad;Liceul cu Program Sportiv Cluj-Napoca ;15
+224;Jon;Liceul cu Program Sportiv Cluj-Napoca ;15
+225;Carmina  ;Liceul cu Program Sportiv Cluj-Napoca ;15
+226;Jon;Liceul Teoretic "Nicolae Balcescu" ;16
+227;Maricruz  ;Liceul Teoretic "Nicolae Balcescu" ;16
+228;Lorene  ;Liceul Teoretic "Nicolae Balcescu" ;16
+229;Lucy  ;Liceul Teoretic "Nicolae Balcescu" ;16
+230;Twyla  ;Liceul Teoretic "Nicolae Balcescu" ;16
+231;Twyla  ;Liceul Teoretic "Nicolae Balcescu" ;16
+232;Ayako  ;Liceul Teoretic "Nicolae Balcescu" ;16
+233;Dominga  ;Liceul Teoretic "Nicolae Balcescu" ;16
+234;Janis  ;Liceul Teoretic "Nicolae Balcescu" ;16
+235;Dominga  ;Liceul Teoretic "Nicolae Balcescu" ;16
+236;Donetta  ;Liceul Teoretic "Nicolae Balcescu" ;16
+237;Taunya  ;Liceul Teoretic "Nicolae Balcescu" ;16
+238;Ayako  ;Liceul Teoretic "Nicolae Balcescu" ;16
+239;Dixie  ;Liceul Teoretic "Nicolae Balcescu" ;16
+240;Charisse  ;Liceul Teoretic "Nicolae Balcescu" ;16
+241;Nolan;Liceul Teoretic "Gheorghe Sincai" ;17
+242;Claud  ;Liceul Teoretic "Gheorghe Sincai" ;17
+243;NemesDiana;Liceul Teoretic "Gheorghe Sincai" ;17
+244;NemesDiana;Liceul Teoretic "Gheorghe Sincai" ;17
+245;Dominga  ;Liceul Teoretic "Gheorghe Sincai" ;17
+246;Lorene  ;Liceul Teoretic "Gheorghe Sincai" ;17
+247;Tatiana  ;Liceul Teoretic "Gheorghe Sincai" ;17
+248;Lucy  ;Liceul Teoretic "Gheorghe Sincai" ;17
+249;Claud  ;Liceul Teoretic "Gheorghe Sincai" ;17
+250;Arturo ;Liceul Teoretic "Gheorghe Sincai" ;17
+251;Nelda  ;Liceul Teoretic "Gheorghe Sincai" ;17
+252;FiciucSebi;Liceul Teoretic "Gheorghe Sincai" ;17
+253;SuciuSorina;Liceul Teoretic "Gheorghe Sincai" ;17
+254;Carmina  ;Liceul Teoretic "Gheorghe Sincai" ;17
+255;Imogene  ;Liceul Teoretic "Gheorghe Sincai" ;17
+256;Sebastian  ;Scoala "Nicolae Titulescu" ;18
+257;SuciuSorina;Scoala "Nicolae Titulescu" ;18
+258;Opal  ;Scoala "Nicolae Titulescu" ;18
+259;Almeda  ;Scoala "Nicolae Titulescu" ;18
+260;Almeda  ;Scoala "Nicolae Titulescu" ;18
+261;Imogene  ;Scoala "Nicolae Titulescu" ;18
+262;Nelda  ;Scoala "Nicolae Titulescu" ;18
+263;Tatiana  ;Scoala "Nicolae Titulescu" ;18
+264;Maranda  ;Scoala "Nicolae Titulescu" ;18
+265;Jennette  ;Scoala "Nicolae Titulescu" ;18
+266;DragulescuSonia;Scoala "Nicolae Titulescu" ;18
+267;DragulescuMara;Scoala "Nicolae Titulescu" ;18
+268;NemesDiana;Scoala "Nicolae Titulescu" ;18
+269;Becky;Scoala "Nicolae Titulescu" ;18
+270;Lucy  ;Scoala "Nicolae Titulescu" ;18
+271;NemesDiana;Scoala Gimnaziala "Liviu Rebreanu" ;19
+272;Tomika;Scoala Gimnaziala "Liviu Rebreanu" ;19
+273;Opal  ;Scoala Gimnaziala "Liviu Rebreanu" ;19
+274;DragulescuSonia;Scoala Gimnaziala "Liviu Rebreanu" ;19
+275;Becky;Scoala Gimnaziala "Liviu Rebreanu" ;19
+276;Rosalina;Scoala Gimnaziala "Liviu Rebreanu" ;19
+277;Deb  ;Scoala Gimnaziala "Liviu Rebreanu" ;19
+278;FiciucSebi;Scoala Gimnaziala "Liviu Rebreanu" ;19
+279;Ping  ;Scoala Gimnaziala "Liviu Rebreanu" ;19
+280;Tammy  ;Scoala Gimnaziala "Liviu Rebreanu" ;19
+281;Carmina  ;Scoala Gimnaziala "Liviu Rebreanu" ;19
+282;Jennette  ;Scoala Gimnaziala "Liviu Rebreanu" ;19
+283;Becky;Scoala Gimnaziala "Liviu Rebreanu" ;19
+284;Rickey  ;Scoala Gimnaziala "Liviu Rebreanu" ;19
+285;Jon;Scoala Gimnaziala "Liviu Rebreanu" ;19
+286;Tatiana  ;Scoala Gimnaziala "Iuliu Hatieganu" ;20
+287;Donetta  ;Scoala Gimnaziala "Iuliu Hatieganu" ;20
+288;Arturo ;Scoala Gimnaziala "Iuliu Hatieganu" ;20
+289;Tomika;Scoala Gimnaziala "Iuliu Hatieganu" ;20
+290;Kenton  ;Scoala Gimnaziala "Iuliu Hatieganu" ;20
+291;Janis  ;Scoala Gimnaziala "Iuliu Hatieganu" ;20
+292;BosteanCristina;Scoala Gimnaziala "Iuliu Hatieganu" ;20
+293;Eunice  ;Scoala Gimnaziala "Iuliu Hatieganu" ;20
+294;MotocBeatrice;Scoala Gimnaziala "Iuliu Hatieganu" ;20
+295;Jon;Scoala Gimnaziala "Iuliu Hatieganu" ;20
+296;Gilma  ;Scoala Gimnaziala "Iuliu Hatieganu" ;20
+297;Nolan;Scoala Gimnaziala "Iuliu Hatieganu" ;20
+298;Carmina  ;Scoala Gimnaziala "Iuliu Hatieganu" ;20
+299;Madeline  ;Scoala Gimnaziala "Iuliu Hatieganu" ;20
+300;DragulescuSonia;Scoala Gimnaziala "Iuliu Hatieganu" ;20
+301;Opal  ;Liceul Teoretic "Bathory Istvan" ;21
+302;Dominga  ;Liceul Teoretic "Bathory Istvan" ;21
+303;SuciuSorina;Liceul Teoretic "Bathory Istvan" ;21
+304;DragulescuSonia;Liceul Teoretic "Bathory Istvan" ;21
+305;Sebastian  ;Liceul Teoretic "Bathory Istvan" ;21
+306;Lorene  ;Liceul Teoretic "Bathory Istvan" ;21
+307;Kenton  ;Liceul Teoretic "Bathory Istvan" ;21
+308;Debi  ;Liceul Teoretic "Bathory Istvan" ;21
+309;Becky;Liceul Teoretic "Bathory Istvan" ;21
+310;Tomika;Liceul Teoretic "Bathory Istvan" ;21
+311;Dixie  ;Liceul Teoretic "Bathory Istvan" ;21
+312;Sebastian  ;Liceul Teoretic "Bathory Istvan" ;21
+313;SuciuSorina;Liceul Teoretic "Bathory Istvan" ;21
+314;Debi  ;Liceul Teoretic "Bathory Istvan" ;21
+315;BosteanCristina;Liceul Teoretic "Bathory Istvan" ;21
+316;Claud  ;Colegiul National "George Baritiu" ;22
+317;Lanell  ;Colegiul National "George Baritiu" ;22
+318;DragulescuMara;Colegiul National "George Baritiu" ;22
+319;Dixie  ;Colegiul National "George Baritiu" ;22
+320;Imogene  ;Colegiul National "George Baritiu" ;22
+321;Dominga  ;Colegiul National "George Baritiu" ;22
+322;BaboiuRazvan;Colegiul National "George Baritiu" ;22
+323;BarbatOtilia;Colegiul National "George Baritiu" ;22
+324;Carey  ;Colegiul National "George Baritiu" ;22
+325;Tatiana  ;Colegiul National "George Baritiu" ;22
+326;SuciuSorina;Colegiul National "George Baritiu" ;22
+327;Twyla  ;Colegiul National "George Baritiu" ;22
+328;Carmina  ;Colegiul National "George Baritiu" ;22
+329;DragulescuSonia;Colegiul National "George Baritiu" ;22
+330;Viola;Colegiul National "George Baritiu" ;22
+331;Arturo ;Liceul Teoretic "Apaczai Csere Janos" ;23
+332;Isaias  ;Liceul Teoretic "Apaczai Csere Janos" ;23
+333;Lanell  ;Liceul Teoretic "Apaczai Csere Janos" ;23
+334;Rickey  ;Liceul Teoretic "Apaczai Csere Janos" ;23
+335;DragomirManu;Liceul Teoretic "Apaczai Csere Janos" ;23
+336;BosteanCristina;Liceul Teoretic "Apaczai Csere Janos" ;23
+337;Jolynn  ;Liceul Teoretic "Apaczai Csere Janos" ;23
+338;SuciuSorina;Liceul Teoretic "Apaczai Csere Janos" ;23
+339;Kayleen  ;Liceul Teoretic "Apaczai Csere Janos" ;23
+340;Becky;Liceul Teoretic "Apaczai Csere Janos" ;23
+341;Rosalina;Liceul Teoretic "Apaczai Csere Janos" ;23
+342;Nolan;Liceul Teoretic "Apaczai Csere Janos" ;23
+343;Tammy  ;Liceul Teoretic "Apaczai Csere Janos" ;23
+344;Jon;Liceul Teoretic "Apaczai Csere Janos" ;23
+345;Rosalina;Liceul Teoretic "Apaczai Csere Janos" ;23
+346;Daria  ;Seminarul Teologic Ortodox ;24
+347;SuciuSorina;Seminarul Teologic Ortodox ;24
+348;Katherine  ;Seminarul Teologic Ortodox ;24
+349;MihaliTeodora;Seminarul Teologic Ortodox ;24
+350;Tatiana  ;Seminarul Teologic Ortodox ;24
+351;Sebastian  ;Seminarul Teologic Ortodox ;24
+352;Debi  ;Seminarul Teologic Ortodox ;24
+353;Danielle  ;Seminarul Teologic Ortodox ;24
+354;Daria  ;Seminarul Teologic Ortodox ;24
+355;Donetta  ;Seminarul Teologic Ortodox ;24
+356;Raymonde  ;Seminarul Teologic Ortodox ;24
+357;Lucy  ;Seminarul Teologic Ortodox ;24
+358;Rickey  ;Seminarul Teologic Ortodox ;24
+359;Tammy  ;Seminarul Teologic Ortodox ;24
+360;Daria  ;Seminarul Teologic Ortodox ;24
+361;BatiuAndrada;Liceul de Informatica "Tiberiu Popoviciu" ;25
+362;MotocBeatrice;Liceul de Informatica "Tiberiu Popoviciu" ;25
+363;Opal  ;Liceul de Informatica "Tiberiu Popoviciu" ;25
+364;Rickey  ;Liceul de Informatica "Tiberiu Popoviciu" ;25
+365;Rosalina;Liceul de Informatica "Tiberiu Popoviciu" ;25
+366;Ayako  ;Liceul de Informatica "Tiberiu Popoviciu" ;25
+367;Carmina  ;Liceul de Informatica "Tiberiu Popoviciu" ;25
+368;Carey  ;Liceul de Informatica "Tiberiu Popoviciu" ;25
+369;Twyla  ;Liceul de Informatica "Tiberiu Popoviciu" ;25
+370;JuncuTeodor;Liceul de Informatica "Tiberiu Popoviciu" ;25
+371;DragomirManu;Liceul de Informatica "Tiberiu Popoviciu" ;25
+372;Anthony  ;Liceul de Informatica "Tiberiu Popoviciu" ;25
+373;Janis  ;Liceul de Informatica "Tiberiu Popoviciu" ;25
+374;Jennette  ;Liceul de Informatica "Tiberiu Popoviciu" ;25
+375;Sebastian  ;Liceul de Informatica "Tiberiu Popoviciu" ;25
+376;Carmina  ;Scoala Gimnaziala „Alexandru Vaida – Voevod" ;26
+377;Claud  ;Scoala Gimnaziala „Alexandru Vaida – Voevod" ;26
+378;BarbatOtilia;Scoala Gimnaziala „Alexandru Vaida – Voevod" ;26
+379;Lorene  ;Scoala Gimnaziala „Alexandru Vaida – Voevod" ;26
+380;Maricruz  ;Scoala Gimnaziala „Alexandru Vaida – Voevod" ;26
+381;JuncuTeodor;Scoala Gimnaziala „Alexandru Vaida – Voevod" ;26
+382;DragulescuMara;Scoala Gimnaziala „Alexandru Vaida – Voevod" ;26
+383;Kayleen  ;Scoala Gimnaziala „Alexandru Vaida – Voevod" ;26
+384;Tammy  ;Scoala Gimnaziala „Alexandru Vaida – Voevod" ;26
+385;SuciuSorina;Scoala Gimnaziala „Alexandru Vaida – Voevod" ;26
+386;BarbatOtilia;Scoala Gimnaziala „Alexandru Vaida – Voevod" ;26
+387;Rosalina;Scoala Gimnaziala „Alexandru Vaida – Voevod" ;26
+388;Kenton  ;Scoala Gimnaziala „Alexandru Vaida – Voevod" ;26
+389;Kenton  ;Scoala Gimnaziala „Alexandru Vaida – Voevod" ;26
+390;Debi  ;Scoala Gimnaziala „Alexandru Vaida – Voevod" ;26
+391;Janis  ;Liceul Teoretic ELF ;27
+392;SuciuSorina;Liceul Teoretic ELF ;27
+393;Gilma  ;Liceul Teoretic ELF ;27
+394;Kenton  ;Liceul Teoretic ELF ;27
+395;FiciucSebi;Liceul Teoretic ELF ;27
+396;Daria  ;Liceul Teoretic ELF ;27
+397;Shon  ;Liceul Teoretic ELF ;27
+398;Lanell  ;Liceul Teoretic ELF ;27
+399;BosteanCristina;Liceul Teoretic ELF ;27
+400;BarbatOtilia;Liceul Teoretic ELF ;27
+401;Shon  ;Liceul Teoretic ELF ;27
+402;Rickey  ;Liceul Teoretic ELF ;27
+403;Debi  ;Liceul Teoretic ELF ;27
+404;BosteanCristina;Liceul Teoretic ELF ;27
+405;Raymonde  ;Liceul Teoretic ELF ;27
+406;Almeda  ;Scoala Gimnaziala "Gheorghe Sincai" Floresti ;28
+407;BosteanCristina;Scoala Gimnaziala "Gheorghe Sincai" Floresti ;28
+408;Tatiana  ;Scoala Gimnaziala "Gheorghe Sincai" Floresti ;28
+409;Arturo ;Scoala Gimnaziala "Gheorghe Sincai" Floresti ;28
+410;Deb  ;Scoala Gimnaziala "Gheorghe Sincai" Floresti ;28
+411;Daria  ;Scoala Gimnaziala "Gheorghe Sincai" Floresti ;28
+412;DrelciucAndrei;Scoala Gimnaziala "Gheorghe Sincai" Floresti ;28
+413;Opal  ;Scoala Gimnaziala "Gheorghe Sincai" Floresti ;28
+414;MotocBeatrice;Scoala Gimnaziala "Gheorghe Sincai" Floresti ;28
+415;Imogene  ;Scoala Gimnaziala "Gheorghe Sincai" Floresti ;28
+416;Tomika;Scoala Gimnaziala "Gheorghe Sincai" Floresti ;28
+417;Twyla  ;Scoala Gimnaziala "Gheorghe Sincai" Floresti ;28
+418;Imogene  ;Scoala Gimnaziala "Gheorghe Sincai" Floresti ;28
+419;Deb  ;Scoala Gimnaziala "Gheorghe Sincai" Floresti ;28
+420;Ayako  ;Scoala Gimnaziala "Gheorghe Sincai" Floresti ;28

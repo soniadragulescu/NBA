@@ -1,0 +1,11 @@
+C:\Users\sonia\source\repos\MAP_lab10v2\MAP_lab10v2\bin\Debug\netcoreapp3.1\MAP_lab10v2.exe
+C:\Users\sonia\source\repos\MAP_lab10v2\MAP_lab10v2\bin\Debug\netcoreapp3.1\MAP_lab10v2.deps.json
+C:\Users\sonia\source\repos\MAP_lab10v2\MAP_lab10v2\bin\Debug\netcoreapp3.1\MAP_lab10v2.runtimeconfig.json
+C:\Users\sonia\source\repos\MAP_lab10v2\MAP_lab10v2\bin\Debug\netcoreapp3.1\MAP_lab10v2.runtimeconfig.dev.json
+C:\Users\sonia\source\repos\MAP_lab10v2\MAP_lab10v2\bin\Debug\netcoreapp3.1\MAP_lab10v2.dll
+C:\Users\sonia\source\repos\MAP_lab10v2\MAP_lab10v2\bin\Debug\netcoreapp3.1\MAP_lab10v2.pdb
+C:\Users\sonia\source\repos\MAP_lab10v2\MAP_lab10v2\obj\Debug\netcoreapp3.1\MAP_lab10v2.csprojAssemblyReference.cache
+C:\Users\sonia\source\repos\MAP_lab10v2\MAP_lab10v2\obj\Debug\netcoreapp3.1\MAP_lab10v2.AssemblyInfoInputs.cache
+C:\Users\sonia\source\repos\MAP_lab10v2\MAP_lab10v2\obj\Debug\netcoreapp3.1\MAP_lab10v2.AssemblyInfo.cs
+C:\Users\sonia\source\repos\MAP_lab10v2\MAP_lab10v2\obj\Debug\netcoreapp3.1\MAP_lab10v2.dll
+C:\Users\sonia\source\repos\MAP_lab10v2\MAP_lab10v2\obj\Debug\netcoreapp3.1\MAP_lab10v2.pdb
